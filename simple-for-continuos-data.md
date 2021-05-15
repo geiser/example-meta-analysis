@@ -44,8 +44,8 @@ Prerequisitos:
 
 Arquivos:
 
-- Script em R: [simple-for-continuos-data.R](simple-for-continuos-data.R)
-- Dados em excel: [raw-data.xlsx](raw-data.xlsx)
+- Script em R: [simple-for-continuos-data.R](https://github.com/geiser/example-meta-analysis/blob/main/simple-for-continuous-data.R)
+- Dados em excel: [raw-data.xlsx](https://github.com/geiser/example-meta-analysis/blob/main/raw-data.xlsx)
 
 # Instalar e carregar pacotes de R necessários
 
